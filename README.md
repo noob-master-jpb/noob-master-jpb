@@ -1,5 +1,4 @@
 # 💫 About Me:
-"🤖 AI & Web Dev Explorer | Code Crafter | Linux Lover 🐧<br>Hi! I’m an AI enthusiast and web dev passionate about building intelligent systems and sleek apps.<br>Powered by Python, JavaScript, and a good dose of caffeine ☕. When I’m not coding, I’m [hobby, e.g., tinkering with Linux 🔧, analyzing data 📊, or gaming 🎮].<br>Let’s team up and create something awesome! Find me at: [Twitter/X handle or email]🌟 Skills & Tools I Master:🧠 AI/ML: Python, PyTorch, Pandas, NumPy, Matplotlib🌐 Web Dev: JavaScript, Svelte, CSS, Flask, REST APIs💾 Databases: SQLite, MySQL⚙️ DevOps: Docker, Git, Debian, Ubuntu, Arch Linux💻 Core: Problem-solving, clean code, and a love for learningReady to fuse AI smarts with web wizardry! Let’s connect and build! 🚀"
 
 
 ## 🌐 Socials:
